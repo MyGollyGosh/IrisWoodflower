@@ -1,0 +1,25 @@
+#yellow {
+    Font-weight: 400;
+    Font-size: 14px;
+    Font-family: None;
+    background-color: #ffff00;
+    margin: 20px;
+}
+
+#lighterYellow {
+    Font-weight: 400;
+    Font-size: 14px;
+    Font-family: None;
+    background-color: #ffff66;
+    margin: 20px;
+}
+
+#lilac {
+    Font-weight: 400;
+    Font-size: 14px;
+    Font-family: None;
+    background-color:#6666ff;
+    margin: 20px; 
+}
+
+/*id selector is # class selector is ./*
